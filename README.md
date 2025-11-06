@@ -1,7 +1,7 @@
 ## Writing code somwhere! 💻
 
-🔭 Working on portfolio projects & experimenting with AI + JS libraries  
-🌱 Learning AI integrations and new JavaScript frameworks  
+🔭 I’m currently working on projects in my portfolio and experimenting with AI and new JavaScript libraries  
+🌱 I’m currently learning AI integrations and exploring JavaScript frameworks and libraries  
 👯 Open to creative, challenging, AI-powered JS projects  
 📫 Reach me: aliitani0@gmail.com  
 😄 Pronouns: he/him/his  
