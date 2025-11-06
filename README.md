@@ -1,11 +1,11 @@
 ## Writing code somwhere! 💻
 
-🔭 Working on portfolio projects & experimenting with AI + JS libraries
-🌱 Learning AI integrations and new JavaScript frameworks
-👯 Open to creative, challenging, AI-powered JS projects
-📫 Reach me: aliitani0@gmail.com
-😄 Pronouns: he/him/his
-⚡ Fun fact: I never turn down a cheeseburger
+- 🔭 Working on portfolio projects & experimenting with AI + JS libraries
+- 🌱 Learning AI integrations and new JavaScript frameworks
+- 👯 Open to creative, challenging, AI-powered JS projects
+- 📫 Reach me: aliitani0@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I never turn down a cheeseburger
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/0dcc981c-5175-49d7-bd78-dc25bafe332f" alt="Ali Itani_Arc" width="120"/>
