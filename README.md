@@ -10,7 +10,7 @@
 <p align="right">
   <img src="https://github.com/user-attachments/assets/0dcc981c-5175-49d7-bd78-dc25bafe332f" alt="Ali Itani_Arc" width="120"/>
 </p>
-
+<!--
 **aliitani/aliitani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
