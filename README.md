@@ -1,4 +1,8 @@
-
+## Tech-Stack
+Languages: JavaScript, TypeScript, Python, Java, SQL, HTML, SCSS/CSS, C#
+Frontend/Backend: React, Angular, Redux, NGXS, TanStack, Framer Motion – Django, Spring, .NET, MSQL Server
+Cloud/Tools: AWS, GCP, Firebase – Webpack, RTL, TailwindCSS, Cloudscape, Clarity.Design
+Concepts & Practices: API design & development, CI/CD pipelines, Design systems
 <!--
 🔭 I’m currently working on projects in my portfolio and experimenting with AI and new JavaScript libraries  
 🌱 I’m currently learning AI integrations and exploring JavaScript frameworks and libraries  
