@@ -1,4 +1,3 @@
-## Writing code somwhere! 💻
 
 <!--
 🔭 I’m currently working on projects in my portfolio and experimenting with AI and new JavaScript libraries  
